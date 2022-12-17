@@ -1,0 +1,22 @@
+{
+  "name": "logsstore",
+  "version": "1.0.0",
+  "description": "Creating and storing logs best practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logs",
+    "with",
+    "nodejs"
+  ],
+  "author": "Khushal Patil",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "moment": "^2.29.4"
+  }
+}
